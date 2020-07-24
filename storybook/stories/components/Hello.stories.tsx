@@ -1,5 +1,5 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react-native';
-import { Hello } from '../../../src/components';
+import { Hello } from '../../../src/components/Index';
 
 storiesOf('Hello', module).add('default', () => <Hello />);
